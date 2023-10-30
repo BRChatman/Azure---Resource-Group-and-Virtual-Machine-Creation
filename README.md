@@ -33,15 +33,18 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  You will first start off by selecting Virtual Machine or searching for it at the top of your screen and pressing create.
+<img src="https://i.imgur.com/6xcGjK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  After pressing create a small drop down menu will open, please click the first option -"Azure Virtual Machine".
+  <img src="https://i.imgur.com/BRsJSKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br />
+Next you will be sent to the next screen which is the start of your VM Configuration.
+<img src="https://i.imgur.com/vci1VQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
