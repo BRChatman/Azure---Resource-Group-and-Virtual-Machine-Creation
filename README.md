@@ -22,8 +22,12 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
+- [Step 1](https://portal.azure.com/) Once on the portal simply press search at the top of the screen for Virtual Machine
+- Virtual Machine - Create
+- Virtual Machine - Create - Creation Type
+- Virtual Machine - Configuration
+- Virtual Machine - Config + Resource Group Creation
+- 
 - Step 3
 - Step 4
 
