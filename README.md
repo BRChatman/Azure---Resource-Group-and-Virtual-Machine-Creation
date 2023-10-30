@@ -8,18 +8,16 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: What a Resource is and how to create one within Azure Compute](https://www.youtube.com/watch?v=lafIQLYC7Ss)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
+- Microsoft Azure (Resource Group)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
 - Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
