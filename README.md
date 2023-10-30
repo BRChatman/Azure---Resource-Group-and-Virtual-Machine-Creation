@@ -8,7 +8,7 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: What a Resource is and how to create one within Azure Compute](https://www.youtube.com/watch?v=lafIQLYC7Ss)
+- ### [YouTube: What a Resource Group is and how to create one within Azure](https://www.youtube.com/watch?v=lafIQLYC7Ss)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,7 +22,7 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- (https://portal.azure.com/) Once on the portal simply press search at the top of the screen for Virtual Machine
+- (https://portal.azure.com/)
 - Virtual Machine - Create
 - Virtual Machine - Create - Creation Type
 - Virtual Machine - Configuration
@@ -33,6 +33,7 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
