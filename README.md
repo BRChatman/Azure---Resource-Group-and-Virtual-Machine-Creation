@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/hnS8d9S.jpg"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Resource Group and Virtual Machine Creation (Azure)</h1>
+This short tutorial explains how to create a Resource Group and Virtual Machine together as well as a link to creating a RG seperately.<br />
 
 
 <h2>Video Demonstration</h2>
