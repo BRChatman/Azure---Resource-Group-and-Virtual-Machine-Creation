@@ -52,10 +52,26 @@ The next task is to select or create a Resource Group, Virtual Machine name, Reg
 "Image" is where you will select your operating system that you wish to run your Virtual Machine on.
 <img src="https://i.imgur.com/agEdyMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ After completing the last task you will scroll to the end of the page and select the size of the
+ Memory, vcpu and pricing. 
 </p>
-
+ *Note* If you're using a free subscription the option that you are presented with may vary.
+ Last thing needed for this page is to check the licensing box at the bottom, please beware that
+ if you are using this for production on your own you will need to check if you have the license
+ to use the operating system.
+<img src="https://i.imgur.com/i50YStC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+As you can tell by the top of this screen that there are a lot of different tabs to customize 
+your Virtual Machine, if you have configurations that you want to use do so now. Unless you
+understand how to configure a virtual machine its best to use the preset values presented. *Note 
+most common changes that are made are to the networking tab.
+<img src="https://i.imgur.com/oMBMRSC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ChGrJZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The first task on this tab is to select a virtual network, your resource group you just created is the
+default option the system will use unless there is another or you want to create one. The subnet
+and the public ip will be created for you. If you have followed the steps you are able to press review
+and create.
+<img src="https://i.imgur.com/zRrNkGj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
