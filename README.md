@@ -80,7 +80,7 @@ create your virtual machine if there are no changes needed select create.
 <img src="https://i.imgur.com/PVkxRXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 Once you have selected create you will see this screen and at this time Azure is creating your Virtual Machine, plug-ins
-add ons and any other network connections needed for it to function properly.
+add-ons and any other network connections needed for it to function properly.
 <img src="https://i.imgur.com/RP2auTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Esg4qXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
