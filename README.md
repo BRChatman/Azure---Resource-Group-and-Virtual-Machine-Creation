@@ -63,19 +63,19 @@ The next task is to select or create a Resource Group, Virtual Machine name, Reg
 <img src="https://i.imgur.com/i50YStC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 As you can tell by the top of this screen that there are a lot of different tabs to customize 
-your Virtual Machine, if you have configurations that you want to use do so now. Unless you
-understand how to configure a virtual machine its best to use the preset values presented. *Note 
+your Virtual Machine, if you have configurations that you want to use do so now. **WARNING!!!** Unless you
+understand how to configure a virtual machine it's best to use the preset values presented. *Note 
 most common changes that are made are to the networking tab.
 <img src="https://i.imgur.com/oMBMRSC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ChGrJZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 The first task on this tab is to select a virtual network, your resource group you just created is the
 default option the system will use unless there is another or you want to create one. The subnet
-and the public ip will be created for you. If you have followed the steps you are able to press review
+and the public ip will be created for you as well. If you have followed the steps you are able to press review
 and create.
 <img src="https://i.imgur.com/zRrNkGj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-If you have followed the steps and descriptions you will see this next screen and then you are ready to
-create you virtual machine.
+Once accepted you will see this next screen and then you are ready to
+create your virtual machine if there are no changes needed select create.
 <img src="https://i.imgur.com/PVkxRXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 Once you have selected create you will see this screen and at this time Azure is creating your Virtual Machine, plug-ins
