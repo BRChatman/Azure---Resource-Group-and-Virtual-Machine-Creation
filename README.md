@@ -76,13 +76,27 @@ and create.
 If you have followed the steps and descriptions you will see this next screen and then you are ready to
 create you virtual machine.
 <img src="https://i.imgur.com/PVkxRXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
 Once you have selected create you will see this screen and at this time Azure is creating your Virtual Machine, plug-ins
 add ons and any other network connections needed for it to function properly.
 <img src="https://i.imgur.com/RP2auTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Esg4qXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
+<h2>Remote DeskTop and How to connect to your VM</h2>
+
+<p>
+Remote Desktop Connection is a feature of Microsoft Windows that allows a user to remotely access another computer over a network connection.
+If you are using a MAC you would need to download:
+  
+- ### [Microsoft Remote DeskTop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 </p>
 
+- (https://portal.azure.com/) Once you have located and or downloaded remote desktop go back to your portal
+- Access your Virtual Machine page
+- Copy your Public IP address
+- Use your username and password when creating your VM
+- Connect to your Virtual Machine
+- Simulate scenarios
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
