@@ -42,10 +42,10 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
   <img src="https://i.imgur.com/BRsJSKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
-Next you will be sent to the next screen which is the start of your VM Configuration. Your first task is to select an active
+Next you will be sent to a screen to start your Virtual Machine Configuration. Your first task is to select an active
 <p>
 "Subscription". 
-The next task is to select or create a Resource Group, Virtual Machine name, Region and operating system.
+The next task is to select or create a Resource Group, Virtual Machine name, Region and Operating System.
 <img src="https://i.imgur.com/vci1VQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  Create the name for your Resource Group here, remember that this name is character sensitive.
@@ -56,7 +56,7 @@ The next task is to select or create a Resource Group, Virtual Machine name, Reg
  After completing the last task you will scroll to the end of the page and select the size of the
  Memory, vcpu and pricing, after selecting your size you now need to create a username and password.
 </p>
- *Note* If you're using a free subscription the option that you are presented with may vary.
+ *Note* If you're using a free subscription the option's that you are presented with may vary.
  Last thing needed for this page is to check the licensing box at the bottom, please beware that
  if you are using this for production on your own you will need to check if you have the license
  to use the operating system.
