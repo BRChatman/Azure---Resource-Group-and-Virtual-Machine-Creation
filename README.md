@@ -27,6 +27,7 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 - Virtual Machine - Create - Creation Type
 - Virtual Machine - Configuration
 - Virtual Machine - Config + Resource Group Creation
+- [Creating Resource Group Seperately](https://portal.azure.com/#create/Microsoft.ResourceGroup)
 - Remote DeskTop Basics + Accessing Virtual Machine/Network
 
 
