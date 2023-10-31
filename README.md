@@ -76,6 +76,11 @@ and create.
 If you have followed the steps and descriptions you will see this next screen and then you are ready to
 create you virtual machine.
 <img src="https://i.imgur.com/PVkxRXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+Once you have selected create you will see this screen and at this time Azure is creating your Virtual Machine, plug-ins
+add ons and any other network connections needed for it to function properly.
+<img src="https://i.imgur.com/RP2auTO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Esg4qXM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
 </p>
 
 
