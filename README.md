@@ -53,7 +53,7 @@ The next task is to select or create a Resource Group, Virtual Machine name, Reg
 <img src="https://i.imgur.com/agEdyMd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
  After completing the last task you will scroll to the end of the page and select the size of the
- Memory, vcpu and pricing. 
+ Memory, vcpu and pricing, after selecting your size you now need to create a username and password.
 </p>
  *Note* If you're using a free subscription the option that you are presented with may vary.
  Last thing needed for this page is to check the licensing box at the bottom, please beware that
