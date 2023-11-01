@@ -94,7 +94,7 @@ If you are using a MAC you would need to download:
 - ### [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 </p>
 
-- Go to(https://portal.azure.com/) once you have located and or downloaded the remote desktop go back to your portal
+- Go to(https://portal.azure.com/) once you have located and or downloaded the remote desktop.
 - Access your Virtual Machine page
 - Copy your Public IP address
 - Use your username and password when creating your VM
