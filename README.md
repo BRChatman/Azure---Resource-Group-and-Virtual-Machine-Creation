@@ -3,7 +3,8 @@
 </p>
 
 <h1>Resource Group and Virtual Machine Creation (Azure)</h1>
-This short tutorial explains how to create a Resource Group and Virtual Machine together and a link to creating an RG separately.<br />
+This short tutorial explains how to create a Resource Group and Virtual Machine together, a link to creating a Resource Group separately, and the basics of
+how to use a remote desktop and connect to your virtual machine.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -23,18 +24,18 @@ This short tutorial explains how to create a Resource Group and Virtual Machine 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - (https://portal.azure.com/)
+- [Creating Resource Group Seperately](https://portal.azure.com/#create/Microsoft.ResourceGroup)
 - Virtual Machine - Create
 - Virtual Machine - Create - Creation Type
 - Virtual Machine - Configuration
 - Virtual Machine - Config + Resource Group Creation
-- [Creating Resource Group Seperately](https://portal.azure.com/#create/Microsoft.ResourceGroup)
 - Remote Desktop Basics + Accessing Virtual Machine/Network
 
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-You will first start off by selecting Virtual Machine or searching for it at the top of your screen and pressing Create.
+You will first start by selecting Virtual Machine or searching for it at the top of your screen and pressing Create.
 <img src="https://i.imgur.com/6xcGjK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
