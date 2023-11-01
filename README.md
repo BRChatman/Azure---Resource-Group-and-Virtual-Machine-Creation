@@ -4,7 +4,7 @@
 
 <h1>Resource Group and Virtual Machine Creation (Azure)</h1>
 This short tutorial explains how to create a Resource Group and Virtual Machine together, a link to creating a Resource Group separately, and the basics of
-how to use a remote desktop and connect to your virtual machine.<br />
+how to remotely connect to your virtual machine.<br />
 
 
 <h2>Video Demonstration</h2>
