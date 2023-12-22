@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/hnS8d9S.jpg"/>
 </p>
 
-<h1>Resource Group and Virtual Machine Creation (Azure)</h1>
+<h1>Resource Group and Virtual Machine Creation </h1>
+
 This short tutorial explains how to create a Resource Group and Virtual Machine together, a link to creating a Resource Group separately, and the basics of
 how to remotely connect to your virtual machine.<br />
 
